@@ -4,8 +4,6 @@
 
 Pull requests are welcome. Please follow the [guidelines](https://github.com/madscientist98/Machine-Learning-Deep-Learning-Resources/blob/master/contributing.md).
 
-
-
 ![HEADgif](https://cdn-images-1.medium.com/max/1000/1*WI43epHjl6I6FzBVPzvXAQ.gif)
 
 # Resources list
