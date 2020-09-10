@@ -18,6 +18,7 @@ Pull requests are welcome. Please follow the [guidelines](https://github.com/mad
 - [Deep Learning | by Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
 - [Dive into Deep Learning](https://d2l.ai/?fbclid=IwAR3a8jTlOFtuj9WW781ApdFg1rA_61VLRz5fVTwOXVXcsfkZopmwNVM1Ae4)
 - [Hands On Machine Learning with Scikit Learn and TensorFlow](https://github.com/yanshengjia/ml-road/blob/master/resources/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf)
+- [Deep learning with python | by Keras creator and Google AI researcher François Chollet](https://drive.google.com/file/d/1yZlVKotI9AUgTydcrPrdhnz7yWAfk8_d/view?usp=sharing)
 
 - [Pattern Recognition and Machine Learning](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiT9LOSmMnrAhX9HrkGHX86Dy0QFjABegQIBBAB&url=http%3A%2F%2Fusers.isr.ist.utl.pt%2F~wurmd%2FLivros%2Fschool%2FBishop%2520-%2520Pattern%2520Recognition%2520And%2520Machine%2520Learning%2520-%2520Springer%2520%25202006.pdf&usg=AOvVaw2j0fMGPbFfpcwGzqELtiRU)
 
