@@ -12,6 +12,7 @@ Pull requests are welcome. Please follow the [guidelines](https://github.com/mad
 - [Introduction to Deep Learning | MIT course](http://introtodeeplearning.com/)
 - [Machine Learning Course by Andrew Ng (Stanford University)](https://www.coursera.org/learn/machine-learning)
 - [Stanford CS229 - Machine Learning](https://see.stanford.edu/Course/CS229)
+- [Machine Learning Course (fast.ai)](https://www.fast.ai/)
 
 # Useful books
 
