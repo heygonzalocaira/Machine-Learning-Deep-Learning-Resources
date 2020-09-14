@@ -7,14 +7,14 @@ Pull requests are welcome. Please follow the [guidelines](https://github.com/mad
 ![HEADgif](https://cdn-images-1.medium.com/max/1000/1*WI43epHjl6I6FzBVPzvXAQ.gif)
 
 # Resources list
-- [Deep Learning in Computer Vision | Coursea course](https://www.coursera.org/learn/deep-learning-in-computer-vision?action=enroll&authMode=login)
+- [Deep Learning in Computer Vision | Coursea](https://www.coursera.org/learn/deep-learning-in-computer-vision?action=enroll&authMode=login)
 - [Start with machine learning ](https://machinelearningmastery.com/start-here/#lstm)
 - [Introduction to Deep Learning | MIT course](http://introtodeeplearning.com/)
 - [Machine Learning Course by Andrew Ng (Stanford University)](https://www.coursera.org/learn/machine-learning)
 - [Stanford CS229 - Machine Learning](https://see.stanford.edu/Course/CS229)
 - [Machine Learning Course (fast.ai)](https://www.fast.ai/)
-- [Deep Learning Course by Andrew Ng |Coursea](https://www.coursera.org/specializations/deep-learning)
-- [Intensive machine learning course by Google](https://developers.google.com/machine-learning/crash-course?hl=es-419)
+- [Deep Learning Course by Andrew Ng | Coursea](https://www.coursera.org/specializations/deep-learning)
+- [Intensive machine learning course | Google](https://developers.google.com/machine-learning/crash-course?hl=es-419)
 # Useful books
 
 - [Deep Learning | by Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
