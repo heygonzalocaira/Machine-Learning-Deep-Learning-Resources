@@ -2,6 +2,7 @@
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 ![GitHub Repo stars](https://img.shields.io/github/stars/madscientist98/Machine-Learning-Deep-Learning-Resources?style=social)
+![GitHub forks](https://img.shields.io/github/forks/madscientist98/Machine-Learning-Deep-Learning-Resources?style=social)
 
 Pull requests are welcome. Please follow the [guidelines](https://github.com/madscientist98/Machine-Learning-Deep-Learning-Resources/blob/master/contributing.md).
 
