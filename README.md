@@ -1,6 +1,7 @@
 ## Machine Learning & Deep Learning Resources
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+[![HitCount](http://hits.dwyl.com/madscientist98/Machine-Learning-Deep-Learning-Resources.svg)](http://hits.dwyl.com/madscientist98/Machine-Learning-Deep-Learning-Resources)
 ![GitHub Repo stars](https://img.shields.io/github/stars/madscientist98/Machine-Learning-Deep-Learning-Resources?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/madscientist98/Machine-Learning-Deep-Learning-Resources?style=social)
 
