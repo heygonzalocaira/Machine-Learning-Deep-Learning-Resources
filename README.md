@@ -65,4 +65,8 @@ Pull requests are welcome. Please follow the [guidelines](https://github.com/mad
 [sentdex](https://www.youtube.com/c/sentdex/featured)
 >Python Programming tutorials, going further than just the basics. Learn about machine learning, finance, data analysis, robotics, web development, game development and more.  
 
+<div align="center">
+### Show some ❤️ by starring this repository ⭐️!
+</div>
+
 
