@@ -1,7 +1,6 @@
 ## Machine Learning & Deep Learning Resources
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-[![HitCount](http://hits.dwyl.com/madscientist98/Machine-Learning-Deep-Learning-Resources.svg)](http://hits.dwyl.com/madscientist98/Machine-Learning-Deep-Learning-Resources)
 ![GitHub Repo stars](https://img.shields.io/github/stars/madscientist98/Machine-Learning-Deep-Learning-Resources?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/madscientist98/Machine-Learning-Deep-Learning-Resources?style=social)
 
@@ -18,6 +17,8 @@ Pull requests are welcome. Please follow the [guidelines](https://github.com/mad
 - [Machine Learning Course (fast.ai)](https://www.fast.ai/)
 - [Deep Learning Course by Andrew Ng | Coursea](https://www.coursera.org/specializations/deep-learning)
 - [Intensive machine learning course | Google](https://developers.google.com/machine-learning/crash-course?hl=es-419)
+- [DEEP LEARNING · SPRING 2020 · NYU CENTER FOR DATA SCIENCE](https://atcold.github.io/pytorch-Deep-Learning/)
+
 # Useful books
 
 - [Deep Learning | by Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
