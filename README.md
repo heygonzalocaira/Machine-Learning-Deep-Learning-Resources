@@ -34,9 +34,11 @@ Pull requests are welcome. Please follow the [guidelines](https://github.com/mad
 [Deeplearning.ai](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w)
 >Welcome to the official deeplearning.ai Youtube channel! Here you can find the videos from our Deep Learning specialization on Coursera. 
 
-[Machine Learning & My Music | by Profs. Arti Ramesh and Anand Seetharam](https://www.youtube.com/channel/UCt8HFaRhijEKuKY7qzvdA3A?fbclid=IwAR0oqewBqb4Y0uJTkcptrWTpfqT3EYYb0_R-vBaCqEznK2dwYNQav7HpZQk).
-  
+[Machine Learning & My Music](https://www.youtube.com/channel/UCt8HFaRhijEKuKY7qzvdA3A?fbclid=IwAR0oqewBqb4Y0uJTkcptrWTpfqT3EYYb0_R-vBaCqEznK2dwYNQav7HpZQk).  
 >This channel contains computer science teaching and research videos by Prof. Arti Ramesh.  She obtained her PhD from University of Maryland, College Park.
+
+[Alfredo Canziani](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
+>Alfredo Canziani is an assistant professor of Computer Science at New York University. 14 weeks of Deep Learning (with PyTorch) 
 
 [Two Minutes Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
 >Awesome research for everyone. Two new science videos every week.
