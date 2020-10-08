@@ -31,6 +31,9 @@ Pull requests are welcome. Please follow the [guidelines](https://github.com/mad
 
 # Youtube Channels
 
+[Deeplearning.ai](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w)
+>Welcome to the official deeplearning.ai Youtube channel! Here you can find the videos from our Deep Learning specialization on Coursera. 
+
 [Machine Learning & My Music | by Profs. Arti Ramesh and Anand Seetharam](https://www.youtube.com/channel/UCt8HFaRhijEKuKY7qzvdA3A?fbclid=IwAR0oqewBqb4Y0uJTkcptrWTpfqT3EYYb0_R-vBaCqEznK2dwYNQav7HpZQk).
   
 >This channel contains computer science teaching and research videos by Prof. Arti Ramesh.  She obtained her PhD from University of Maryland, College Park.
