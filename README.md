@@ -28,6 +28,7 @@ Pull requests are welcome. Please follow the [guidelines](https://github.com/mad
 - [Intensive machine learning course by Google](https://developers.google.com/machine-learning/crash-course?hl=es-419)
 - [DEEP LEARNING · SPRING 2020 · NYU CENTER FOR DATA SCIENCE](https://atcold.github.io/pytorch-Deep-Learning/)
 - [Made With ML Topics](https://madewithml.com/topics/?fbclid=IwAR3lQ4wHGPsKu5J9Muq1-GKiJhN546d5fhR0Oo90R6ZND7vBTVuuEDe6_Bo)
+- [Deep Reinforcement Learning from beginner to expert](https://simoninithomas.github.io/deep-rl-course/)
 
 ## Useful books
 
