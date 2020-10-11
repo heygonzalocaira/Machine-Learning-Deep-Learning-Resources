@@ -31,13 +31,13 @@ Pull requests are welcome. Please follow the [guidelines](https://github.com/mad
 - [Deep Reinforcement Learning from beginner to expert](https://simoninithomas.github.io/deep-rl-course/)
 
 ## Useful books
+|     |     |    |
+| :-: | :-: |:-: |
+|  [Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/) | [Dive into Deep Learning](https://d2l.ai/?fbclid=IwAR3a8jTlOFtuj9WW781ApdFg1rA_61VLRz5fVTwOXVXcsfkZopmwNVM1Ae4) | [Hands On Machine Learning with Scikit Learn and TensorFlow](https://github.com/yanshengjia/ml-road/blob/master/resources/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf) |
+| <img src="https://images-na.ssl-images-amazon.com/images/I/A1GbblX7rOL._AC_UL600_SR456,600_.jpg" height="300" /> | <img src="https://d2l.ai/_images/front.png" height="300" /> | <img src="https://m.media-amazon.com/images/S/aplus-media/vc/11714e04-b1a6-439d-9482-87e757822f94.jpg" height="300" /> |
+|  [Deep learning with python by Keras creator and Google AI researcher François Chollet](https://drive.google.com/file/d/1yZlVKotI9AUgTydcrPrdhnz7yWAfk8_d/view?usp=sharing) | [Pattern Recognition and Machine Learning](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiT9LOSmMnrAhX9HrkGHX86Dy0QFjABegQIBBAB&url=http%3A%2F%2Fusers.isr.ist.utl.pt%2F~wurmd%2FLivros%2Fschool%2FBishop%2520-%2520Pattern%2520Recognition%2520And%2520Machine%2520Learning%2520-%2520Springer%2520%25202006.pdf&usg=AOvVaw2j0fMGPbFfpcwGzqELtiRU) |  |
+| <img src="https://images-na.ssl-images-amazon.com/images/I/41PYcD28fIL._SX397_BO1,204,203,200_.jpg" height="300" /> | <img src="https://images-na.ssl-images-amazon.com/images/I/71fqxXDY2ZL._AC_UL600_SR444,600_.jpg" height="300" /> |  |
 
-- [Deep Learning | by Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
-- [Dive into Deep Learning](https://d2l.ai/?fbclid=IwAR3a8jTlOFtuj9WW781ApdFg1rA_61VLRz5fVTwOXVXcsfkZopmwNVM1Ae4)
-- [Hands On Machine Learning with Scikit Learn and TensorFlow](https://github.com/yanshengjia/ml-road/blob/master/resources/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf)
-- [Deep learning with python | by Keras creator and Google AI researcher François Chollet](https://drive.google.com/file/d/1yZlVKotI9AUgTydcrPrdhnz7yWAfk8_d/view?usp=sharing)
-
-- [Pattern Recognition and Machine Learning](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiT9LOSmMnrAhX9HrkGHX86Dy0QFjABegQIBBAB&url=http%3A%2F%2Fusers.isr.ist.utl.pt%2F~wurmd%2FLivros%2Fschool%2FBishop%2520-%2520Pattern%2520Recognition%2520And%2520Machine%2520Learning%2520-%2520Springer%2520%25202006.pdf&usg=AOvVaw2j0fMGPbFfpcwGzqELtiRU)
 
 ## Interview Resources
 - [What are the skills needed for a data scientist job?](https://www.quora.com/What-are-the-skills-needed-for-a-data-scientist-job)
