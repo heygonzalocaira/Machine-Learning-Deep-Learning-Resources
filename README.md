@@ -56,6 +56,9 @@ Pull requests are welcome. Please follow the [guidelines](https://github.com/mad
 [Alfredo Canziani](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
 >Alfredo Canziani is an assistant professor of Computer Science at New York University. 14 weeks of Deep Learning (with PyTorch) 
 
+[Michigan Online](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
+>Michigan Online is your destination for online learning opportunities created by the University of Michigan. Here, you will find videos from online learning experiences developed by faculty experts and instructional teams at the University of Michigan.
+
 [Two Minutes Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
 >Awesome research for everyone. Two new science videos every week.
 
