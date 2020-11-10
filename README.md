@@ -1,11 +1,11 @@
 ## Machine Learning & Deep Learning Resources
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) 
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/madscientist98/Machine-Learning-Deep-Learning-Resources/master)
-![GitHub Repo stars](https://img.shields.io/github/stars/madscientist98/Machine-Learning-Deep-Learning-Resources?style=social)
-![GitHub forks](https://img.shields.io/github/forks/madscientist98/Machine-Learning-Deep-Learning-Resources?style=social)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/madscientistCS/Machine-Learning-Deep-Learning-Resources/master)
+![GitHub Repo stars](https://img.shields.io/github/stars/madscientistCS/Machine-Learning-Deep-Learning-Resources?style=social)
+![GitHub forks](https://img.shields.io/github/forks/madscientistCS/Machine-Learning-Deep-Learning-Resources?style=social)
 
-Pull requests are welcome. Please follow the [guidelines](https://github.com/madscientist98/Machine-Learning-Deep-Learning-Resources/blob/master/contributing.md).
+Pull requests are welcome. Please follow the [guidelines](https://github.com/madscientistCS/Machine-Learning-Deep-Learning-Resources/blob/master/contributing.md).
 
 ![HEADgif](https://cdn-images-1.medium.com/max/1000/1*WI43epHjl6I6FzBVPzvXAQ.gif)
 
