@@ -32,6 +32,7 @@ Pull requests are welcome. Please follow the [guidelines](https://github.com/mad
 - [NLP Course | For You](https://lena-voita.github.io/nlp_course.html)
 - [Introduction to Deep Learning (TUM)](https://niessner.github.io/I2DL/?fbclid=IwAR15H4L_RDBbrN8KYDyN4b-FAbnw6gWH--DkSkiRWS0qnpfsnzDvHjQs6-A)
 - [Foundations of Deep Learning (Maryland)](https://www.cs.umd.edu/class/fall2020/cmsc828W/)
+- [Deep Unsupervised Learning (Berkeley)](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
 
 
 ## Useful books
