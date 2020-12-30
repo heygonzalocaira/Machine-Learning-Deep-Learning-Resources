@@ -31,6 +31,7 @@ Pull requests are welcome. Please follow the [guidelines](https://github.com/mad
 - [Deep Reinforcement Learning from beginner to expert](https://simoninithomas.github.io/deep-rl-course/)
 - [NLP Course | For You](https://lena-voita.github.io/nlp_course.html)
 - [Introduction to Deep Learning (TUM)](https://niessner.github.io/I2DL/?fbclid=IwAR15H4L_RDBbrN8KYDyN4b-FAbnw6gWH--DkSkiRWS0qnpfsnzDvHjQs6-A)
+- [Foundations of Deep Learning (Maryland)](https://www.cs.umd.edu/class/fall2020/cmsc828W/)
 
 
 ## Useful books
