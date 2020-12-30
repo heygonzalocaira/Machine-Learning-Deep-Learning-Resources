@@ -30,6 +30,8 @@ Pull requests are welcome. Please follow the [guidelines](https://github.com/mad
 - [Made With ML Topics](https://madewithml.com/topics/?fbclid=IwAR3lQ4wHGPsKu5J9Muq1-GKiJhN546d5fhR0Oo90R6ZND7vBTVuuEDe6_Bo)
 - [Deep Reinforcement Learning from beginner to expert](https://simoninithomas.github.io/deep-rl-course/)
 - [NLP Course | For You](https://lena-voita.github.io/nlp_course.html)
+- [Introduction to Deep Learning (TUM)](https://niessner.github.io/I2DL/?fbclid=IwAR15H4L_RDBbrN8KYDyN4b-FAbnw6gWH--DkSkiRWS0qnpfsnzDvHjQs6-A)
+
 
 ## Useful books
 |     |     |    |
