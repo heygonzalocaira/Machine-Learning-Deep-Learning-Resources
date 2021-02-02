@@ -70,6 +70,9 @@ Pull requests are welcome. Please follow the [guidelines](https://github.com/mad
 [Lex Fridman](https://www.youtube.com/c/lexfridman/featured)
 >Videos exploring research topics in artificial intelligence, deep learning, autonomous vehicles, and beyond.
 
+[Volodymyr Kuleshov](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83&fbclid=IwAR1Tq7_0efE13gRsGEXFRy6fPPmQHuU9zuVb6l-S1xU9fcsgmKGZ-yWwDnU)
+>Starting from the very basics, we cover all of the most important ML algorithms and how to apply them in practice.
+
 [Arxiv Insights](https://www.youtube.com/c/ArxivInsights/featured)
 >In this channel I try to summarize my core take-aways from a technical point of view while making them accessible for a bigger audience.
 
