@@ -1,9 +1,9 @@
 ## Machine Learning & Deep Learning Resources
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) 
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/ heymadscientist /Machine-Learning-Deep-Learning-Resources/master)
-![GitHub Repo stars](https://img.shields.io/github/stars/ heymadscientist /Machine-Learning-Deep-Learning-Resources?style=social)
-![GitHub forks](https://img.shields.io/github/forks/ heymadscientist /Machine-Learning-Deep-Learning-Resources?style=social)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/heymadscientist/Machine-Learning-Deep-Learning-Resources/master)
+![GitHub Repo stars](https://img.shields.io/github/stars/heymadscientist/Machine-Learning-Deep-Learning-Resources?style=social)
+![GitHub forks](https://img.shields.io/github/forks/heymadscientist/Machine-Learning-Deep-Learning-Resources?style=social)
 
 Pull requests are welcome. Please follow the [guidelines](https://github.com/ heymadscientist /Machine-Learning-Deep-Learning-Resources/blob/master/contributing.md).
 
