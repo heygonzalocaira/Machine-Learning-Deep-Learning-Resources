@@ -5,7 +5,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/heymadscientist/Machine-Learning-Deep-Learning-Resources?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/heymadscientist/Machine-Learning-Deep-Learning-Resources?style=social)
 
-Pull requests are welcome. Please follow the [guidelines](https://github.com/ heymadscientist /Machine-Learning-Deep-Learning-Resources/blob/master/contributing.md).
+Pull requests are welcome. Please follow the [guidelines](https://github.com/heymadscientist/Machine-Learning-Deep-Learning-Resources/blob/master/contributing.md).
 
 ![HEADgif](https://cdn-images-1.medium.com/max/1000/1*WI43epHjl6I6FzBVPzvXAQ.gif)
 
