@@ -85,6 +85,9 @@ Pull requests are welcome. Please follow the [guidelines](https://github.com/hey
 
 [deeplizard](https://www.youtube.com/channel/UC4UJ26WkceqONNF5S26OiVw)
 >Building collective intelligence.
+
+[What's AI](https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg)
+>Hi, I am Louis (loo·ee, French pronunciation), from Montreal, Canada, also known as "What's AI". I try to share and explain artificial intelligence terms and news the best way I can for everyone. My goal is to demystify the AI “black box” for everyone and sensitize people about the risks of using it.
 <div align="center">
   
 ## Show some ❤️ by starring this repository ⭐️!
