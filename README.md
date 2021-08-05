@@ -18,6 +18,7 @@ Pull requests are welcome. Please follow the [guidelines](https://github.com/hey
 
 
 ## Course List
+- [Practical Deep Learning for Coders](https://course.fast.ai/)
 - [Deep Learning in Computer Vision Coursea](https://www.coursera.org/learn/deep-learning-in-computer-vision?action=enroll&authMode=login)
 - [Start with machine learning ](https://machinelearningmastery.com/start-here/#lstm)
 - [Introduction to Deep Learning by MIT course](http://introtodeeplearning.com/)
@@ -47,6 +48,8 @@ Pull requests are welcome. Please follow the [guidelines](https://github.com/hey
 |  <img src="https://covers.zlibcdn2.com/covers/books/36/92/c8/3692c8b9288c21d0247aaad0ca217ded.jpg" height="300" />  | <img src="https://www.nourbook.com/publice/covers_cache_jpg/2/2/b/6/b2279ac2362b6cd875e8cf2cecfaf30a.JPG.jpg" height="300" />  |  <img src="https://images-eu.ssl-images-amazon.com/images/I/41MS9I6H1ZL.jpg" height="300" /> |
 | [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/) | [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) | [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html) |
 |<img src="https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262039406%26type%3D.jpg?itok=a6DbyfYo" height="300" />  | <img src="https://v4py.github.io/images/outro/python_data_science.png" height="300" />  | <img src="https://m.media-amazon.com/images/I/513uCLlgS4L.jpg" height="300" /> |
+| [Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD](https://github.com/fastai/fastbook) |     |    |
+| <img src="https://images-na.ssl-images-amazon.com/images/I/516YvsJCS9L._SX379_BO1,204,203,200_.jpg" height="300" /> |     |    |
 
 
 
@@ -88,6 +91,10 @@ Pull requests are welcome. Please follow the [guidelines](https://github.com/hey
 
 [What's AI](https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg)
 >Hi, I am Louis (loo·ee, French pronunciation), from Montreal, Canada, also known as "What's AI". I try to share and explain artificial intelligence terms and news the best way I can for everyone. My goal is to demystify the AI “black box” for everyone and sensitize people about the risks of using it.
+
+[Jeremy Howard](https://www.youtube.com/channel/UCX7Y2qWriXpqocG97SFW2OQ)
+>Jeremy Howard is a data scientist, researcher, developer, educator, and entrepreneur. Jeremy is a founding researcher at fast.ai, a research institute dedicated to making deep learning more accessible. Making neural nets uncool again!
+
 <div align="center">
   
 ## Show some ❤️ by starring this repository ⭐️!
