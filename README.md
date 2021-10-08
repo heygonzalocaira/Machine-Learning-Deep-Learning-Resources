@@ -36,6 +36,8 @@ Pull requests are welcome. Please follow the [guidelines](https://github.com/hey
 - [Deep Unsupervised Learning (Berkeley)](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
 - [Deep Reinforcement Learning (Berkeley)](http://rail.eecs.berkeley.edu/deeprlcourse/)
 - [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/)
+- [Introduction to Machine Learning Course(Udacity)](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+- [Intro to Deep Learning with PyTorch(Udacity)](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 
 ## Useful books
 |     |     |    |
